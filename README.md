@@ -2,6 +2,8 @@
 
 Binary classification model to predict presence of breast cancer,benign_0__mal_1.
 
+Model trained on a copy of UCI ML Breast Cancer Wisconsin (Diagnostic) datasets. https://goo.gl/U2Uwz2
+
 Improved accuracy of model and prevented overfitting
 
 Implemented callback-Early_stopping during training
